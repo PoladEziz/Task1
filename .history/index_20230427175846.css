@@ -119,9 +119,7 @@
   .box-1 {
     flex-direction: column;
   }
-  .box-1 .text {
-    width: 100%;
-  }
+  .box 
   .box-1 img {
     width: 170px;
     height: 160.44px;
@@ -151,10 +149,6 @@
   }
 
   .box-2 ul li h3 {
-    margin-bottom: 6px;
     font-size: 12px;
-  }
-  .box-2 ul li p {
-    font-size: 10px;
   }
 }
